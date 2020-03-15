@@ -1,5 +1,5 @@
 # PoseAttention implementation in PyTorch
-This is the PyTorch implementation for PoseAttrn, developed based on PoseLATM(https://github.com/hazirbas/poselstm-pytorch) code.
+This is the PyTorch implementation for PoseAttention, developed based on PoseLSTM(https://github.com/hazirbas/poselstm-pytorch) code.
 
 ## Prerequisites
 - Linux
